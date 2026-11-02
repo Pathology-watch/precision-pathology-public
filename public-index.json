@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-26T17:54:57.079367+00:00",
+  "updated": "2026-11-02T08:27:14.755510+00:00",
   "language": "en",
-  "article_count": 78,
+  "article_count": 141,
   "journals_tracked": {
     "N Engl J Med": "0028-4793",
     "Lancet": "0140-6736",
@@ -87,6 +87,2201 @@
     }
   ],
   "articles": [
+    {
+      "pmid": "42967455",
+      "title": "From staging to changing strategy: [18F]FDG PET/MRI's impact on treatment planning in early breast cancer.",
+      "journal": "Eur J Cancer",
+      "pub_date": "2026 Oct 29",
+      "authors": [
+        "Di Micco R",
+        "Corona SP",
+        "Bagnardi V",
+        "Riccardi S",
+        "Canevari C",
+        "Gallivanone F"
+      ],
+      "author_count": 29,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42967455/",
+      "doi": "10.1016/j.ejca.2026.117809",
+      "mesh_terms": [],
+      "relevance_score": 2,
+      "category": "Clinical research",
+      "category_key": "clinical",
+      "ki_jl_level": 2,
+      "why_relevant": "A prospective single-arm imaging study on how FDG PET/MRI staging changes treatment planning in early breast cancer; it has no pathology, biomarker, AI or model component, so it is only tangentially related to the group's focus (multifocality aside).",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_journals"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42963954",
+      "title": "Cancer in Seychelles: A Population-Based Study on Incidence, Trends and Stage at Diagnosis (2005-2024).",
+      "journal": "Int J Cancer",
+      "pub_date": "2026 Oct 31",
+      "authors": [
+        "Finesse A",
+        "Mondon J",
+        "Shroff E",
+        "Gedeon J",
+        "Louange M",
+        "Parkin DM"
+      ],
+      "author_count": 6,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42963954/",
+      "doi": "10.1002/ijc.70769",
+      "mesh_terms": [],
+      "relevance_score": 1,
+      "category": "Clinical research",
+      "category_key": "clinical",
+      "ki_jl_level": 2,
+      "why_relevant": "A population-based cancer registry study on incidence trends and stage at diagnosis in Seychelles with no biomarker, pathology, AI, heterogeneity, resistance or model component, so it only touches breast cancer epidemiology.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_journals"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42963862",
+      "title": "Is Ductal Carcinoma In Situ a Precursor or Low-Risk Variant of Invasive Breast Cancer? A Population Perspective.",
+      "journal": "Int J Cancer",
+      "pub_date": "2026 Oct 30",
+      "authors": [
+        "Jatoi I",
+        "Filho AM",
+        "Gierach G",
+        "Sung H",
+        "Rosenberg PS"
+      ],
+      "author_count": 5,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42963862/",
+      "doi": "10.1002/ijc.70799",
+      "mesh_terms": [],
+      "relevance_score": 2,
+      "category": "Clinical research",
+      "category_key": "clinical",
+      "ki_jl_level": 2,
+      "why_relevant": "A population-level epidemiological perspective on whether DCIS is a precursor or a low-risk variant of invasive breast cancer; it touches on tumor biology and overtreatment but has no pathology, AI, biomarker or model component that connects directly to the group's methods.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_journals"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42963797",
+      "title": "Time-dependent anti-Müllerian hormone dynamics during GnRHa-based endocrine therapy in young breast cancer survivors: a longitudinal real-world cohort study.",
+      "journal": "Breast Cancer Res",
+      "pub_date": "2026 Aug 04",
+      "authors": [
+        "Jiang C",
+        "Bi X",
+        "Hua X",
+        "Yuan Z",
+        "Guo Y",
+        "Wang S"
+      ],
+      "author_count": 10,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42963797/",
+      "doi": "10.1186/s13058-026-02359-9",
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Anti-Mullerian Hormone*",
+        "Breast Neoplasms*",
+        "Gonadotropin-Releasing Hormone*",
+        "Longitudinal Studies",
+        "Retrospective Studies",
+        "Adult",
+        "Ovarian Reserve",
+        "Cancer Survivors",
+        "Antineoplastic Agents, Hormonal*",
+        "Young Adult"
+      ],
+      "relevance_score": 1,
+      "category": "Clinical research",
+      "category_key": "clinical",
+      "ki_jl_level": 2,
+      "why_relevant": "A retrospective clinical cohort on AMH dynamics and ovarian reserve in young breast cancer survivors on GnRHa therapy, with no pathology, tumor biology, resistance or heterogeneity component, so it is only marginally related to the group's research.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_journals"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42962501",
+      "title": "Longitudinal trajectories of menopausal symptoms in women receiving endocrine therapy for breast cancer compared with natural menopause.",
+      "journal": "Breast",
+      "pub_date": "2026 Oct 21",
+      "authors": [
+        "Lee SK",
+        "Choi HR",
+        "Kang D",
+        "Jang Y",
+        "Ryu S",
+        "Lee JE"
+      ],
+      "author_count": 12,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42962501/",
+      "doi": "10.1016/j.breast.2026.104947",
+      "mesh_terms": [],
+      "relevance_score": 1,
+      "category": "Clinical research",
+      "category_key": "clinical",
+      "ki_jl_level": 1,
+      "why_relevant": "This is a patient-reported outcome study of menopausal symptom burden during endocrine therapy, with no pathology, biomarker, heterogeneity, resistance-mechanism or model component, so it is only marginally related to the group's research.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_journals"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42962412",
+      "title": "Drugging the luminal axis end to end: A review of next-generation endocrine and targeted therapies in HR + /HER2- metastatic breast cancer.",
+      "journal": "Eur J Cancer",
+      "pub_date": "2026 Oct 23",
+      "authors": [
+        "Caltavituro A",
+        "Giordano A",
+        "De Angelis C",
+        "Buonaiuto R",
+        "Canzian J",
+        "Torres-Marcén M"
+      ],
+      "author_count": 14,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42962412/",
+      "doi": "10.1016/j.ejca.2026.117794",
+      "mesh_terms": [],
+      "relevance_score": 3,
+      "category": "Treatment resistance & response prediction",
+      "category_key": "resistance",
+      "ki_jl_level": 2,
+      "why_relevant": "A review of next-generation endocrine and targeted therapies in HR+/HER2- metastatic breast cancer, organized around resistance mechanisms (ESR1 mutation, PI3K, CDK4/6, CDK2) and biomarker-guided selection via tissue and ctDNA, which is useful background for the group's endocrine resistance work but offers no new data or pathology/AI angle.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_journals"
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42962160",
+      "title": "From TAILORx to OPTIMA: Evolving Evidence for Genomically Guided Chemotherapy in Hormone Receptor-Positive Human Epidermal Growth Factor Receptor 2-Negative Breast Cancer.",
+      "journal": "J Clin Oncol",
+      "pub_date": "2026 Oct 30",
+      "authors": [
+        "Abdou Y",
+        "Carey LA"
+      ],
+      "author_count": 2,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42962160/",
+      "doi": "10.1200/JCO-26-01976",
+      "mesh_terms": [],
+      "relevance_score": 3,
+      "category": "Biomarkers & molecular diagnostics",
+      "category_key": "biomarkers",
+      "ki_jl_level": 3,
+      "why_relevant": "The title suggests a review or commentary on genomic assays (Oncotype DX in TAILORx, Prosigna in OPTIMA) for guiding chemotherapy in HR+/HER2- breast cancer, which is relevant background to the group's work on risk assessment beyond routine IHC, but no abstract or original data is available and it is likely an editorial or review.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_journals"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42961010",
+      "title": "Vascular normalization confers an endothelial immune suppressive gene expression profile.",
+      "journal": "Mol Oncol",
+      "pub_date": "2026 Oct 30",
+      "authors": [
+        "He L",
+        "Welsh M"
+      ],
+      "author_count": 2,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42961010/",
+      "doi": "10.1002/1878-0261.70355",
+      "mesh_terms": [],
+      "relevance_score": 2,
+      "category": "Other",
+      "category_key": "other",
+      "ki_jl_level": 1,
+      "why_relevant": "A mouse breast cancer model with endothelial Shb deficiency, supported by public human endothelial expression data, suggests that vascular normalization produces an immunosuppressive endothelial profile; this is tangential to the group's focus on pathology, heterogeneity, resistance and patient-derived models, and has no direct biomarker or digital pathology angle.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_journals"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42958296",
+      "title": "CK2 targeting potentiates antineoplastic effects of dual HER2/EGFR inhibitor lapatinib and attenuates growth factor-induced epithelial-mesenchymal transition.",
+      "journal": "Breast Cancer Res",
+      "pub_date": "2026 Aug 02",
+      "authors": [
+        "Robinson D",
+        "Kim H",
+        "Selico-Dunn A",
+        "Elkins E",
+        "Kim S",
+        "Kim S"
+      ],
+      "author_count": 11,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42958296/",
+      "doi": "10.1186/s13058-026-02356-y",
+      "mesh_terms": [
+        "Humans",
+        "Casein Kinase II*",
+        "Erb-b2 Receptor Tyrosine Kinases*",
+        "Female",
+        "Epithelial-Mesenchymal Transition*",
+        "Lapatinib*",
+        "Breast Neoplasms*",
+        "ErbB Receptors",
+        "Cell Proliferation",
+        "Cell Line, Tumor",
+        "Protein Kinase Inhibitors*",
+        "Phenazines",
+        "Signal Transduction",
+        "Drug Resistance, Neoplasm",
+        "Antineoplastic Agents*",
+        "Animals",
+        "Quinazolines",
+        "Gene Expression Regulation, Neoplastic",
+        "Naphthyridines"
+      ],
+      "relevance_score": 3,
+      "category": "Treatment resistance & response prediction",
+      "category_key": "resistance",
+      "ki_jl_level": 2,
+      "why_relevant": "It addresses endocrine and anti-HER2 resistance mechanisms (CK2/ERK/cyclin D1, EMT, lapatinib sensitization), which fits the group's resistance theme, but the evidence comes from cell lines plus public dataset analysis, with no patient-material, organoid or PDX validation.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_journals"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42957778",
+      "title": "5-year outcomes of chemotherapy de-escalation in HER2-positive early breast cancer and exploratory circulating tumor DNA analyses from the randomized phase 2 PHERGain trial.",
+      "journal": "Nat Med",
+      "pub_date": "2026 Oct 29",
+      "authors": [
+        "Pérez-García JM",
+        "Cortés J",
+        "Ruiz-Borrego M",
+        "Stradella A",
+        "Bermejo B",
+        "Escrivá-de-Romaní S"
+      ],
+      "author_count": 34,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42957778/",
+      "doi": "10.1038/s41591-026-04723-w",
+      "mesh_terms": [],
+      "relevance_score": 3,
+      "category": "Treatment resistance & response prediction",
+      "category_key": "resistance",
+      "ki_jl_level": 3,
+      "why_relevant": "A Nat Med phase 2 trial of response-adapted de-escalation in HER2-positive breast cancer, with exploratory ctDNA analyses that predict pCR and long-term outcome, so it is relevant to treatment-response prediction beyond routine IHC. It is mainly a clinical imaging- and pCR-guided trial with no pathology, AI or tissue-based heterogeneity component, so it is background rather than core for the group.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_journals"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42956779",
+      "title": "WHO releases framework for expanding access to early breast cancer care.",
+      "journal": "Lancet Oncol",
+      "pub_date": "2026 Oct 29",
+      "authors": [
+        "Gourd E"
+      ],
+      "author_count": 1,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42956779/",
+      "doi": "10.1016/S1470-2045(26)00591-7",
+      "mesh_terms": [],
+      "relevance_score": 1,
+      "category": "Clinical research",
+      "category_key": "clinical",
+      "ki_jl_level": 3,
+      "why_relevant": "A short news item on a WHO framework for access to early breast cancer care, with no abstract, data, or pathology, biomarker, AI, or model content, so it only touches the group's field at a health-policy level.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_journals"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42956457",
+      "title": "Knowledge gaps and future perspectives for the definition, diagnostics and treatment of isolated locoregional recurrent breast cancer.",
+      "journal": "Breast",
+      "pub_date": "2026 Oct 21",
+      "authors": [
+        "Snellen TIM",
+        "Vervenne CM",
+        "Dezentjé VO",
+        "Wiersma T",
+        "Scholten AN",
+        "Lips EH"
+      ],
+      "author_count": 7,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42956457/",
+      "doi": "10.1016/j.breast.2026.104945",
+      "mesh_terms": [],
+      "relevance_score": 2,
+      "category": "Clinical research",
+      "category_key": "clinical",
+      "ki_jl_level": 1,
+      "why_relevant": "A clinical review of isolated locoregional recurrence covering definition, work-up and treatment; it touches on distinguishing true recurrence from a second primary (a clonality/heterogeneity question), but it has no pathology, AI or biomarker data and is only tangential to the group's work.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_journals"
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42955431",
+      "title": "Real-world efficacy and safety of trastuzumab emtansine biosimilar (UJVIRA®) in early and metastatic HER2-positive breast cancer: a multicenter pooled retrospective analysis from India.",
+      "journal": "Breast Cancer Res Treat",
+      "pub_date": "2026 Oct 28",
+      "authors": [
+        "Mahajan A",
+        "Panda SS",
+        "Moharana L",
+        "Chandrakanth MV",
+        "Agarwala V",
+        "Manna R"
+      ],
+      "author_count": 21,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42955431/",
+      "doi": "10.1007/s10549-026-08114-0",
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Breast Neoplasms*",
+        "India",
+        "Erb-b2 Receptor Tyrosine Kinases*",
+        "Ado-Trastuzumab Emtansine*",
+        "Retrospective Studies",
+        "Middle Aged",
+        "Biosimilar Pharmaceuticals*",
+        "Aged",
+        "Adult",
+        "Trastuzumab",
+        "Neoplasm Metastasis",
+        "Treatment Outcome"
+      ],
+      "relevance_score": 2,
+      "category": "Clinical research",
+      "category_key": "clinical",
+      "ki_jl_level": 1,
+      "why_relevant": "A retrospective real-world study of a T-DM1 biosimilar in HER2-positive breast cancer, with no biomarker, pathology, heterogeneity or resistance-mechanism analysis, so it only touches the group's anti-HER2 therapy interest.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_journals"
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study"
+      ]
+    },
+    {
+      "pmid": "42955423",
+      "title": "Sociodemographic and clinicopathologic features associated with rapid relapse in triple-negative breast cancer: a Swedish nationwide registry-based study.",
+      "journal": "Breast Cancer Res Treat",
+      "pub_date": "2026 Oct 28",
+      "authors": [
+        "Sarathchandra S",
+        "Nyqvist-Streng J",
+        "Sahlberg E",
+        "Einbeigi Z",
+        "Helou K",
+        "Kovács A"
+      ],
+      "author_count": 9,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42955423/",
+      "doi": "10.1007/s10549-026-08115-z",
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Sweden",
+        "Registries",
+        "Triple Negative Breast Neoplasms*",
+        "Neoplasm Recurrence, Local*",
+        "Middle Aged",
+        "Aged",
+        "Retrospective Studies",
+        "Adult",
+        "Sociodemographic Factors",
+        "Prognosis"
+      ],
+      "relevance_score": 2,
+      "category": "Clinical research",
+      "category_key": "clinical",
+      "ki_jl_level": 1,
+      "why_relevant": "A large Swedish nationwide registry study of rapid versus late relapse in TNBC that touches on risk stratification, but it uses only routine clinicopathologic and sociodemographic variables with no digital pathology, molecular, or model-based biomarker component.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_journals"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42951252",
+      "title": "Invasive Lobular Carcinoma With Extracellular Mucin Production: First Whole Exome Sequencing of a Rare Histological Variant of Breast Carcinoma.",
+      "journal": "Mod Pathol",
+      "pub_date": "2026 Oct 28",
+      "authors": [
+        "Koufopoulos NI",
+        "Tsampazis GK",
+        "Pateras IS",
+        "Spathis A",
+        "Zacharioudakis M",
+        "Leventakou D"
+      ],
+      "author_count": 18,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42951252/",
+      "doi": "10.1016/j.modpat.2026.101110",
+      "mesh_terms": [],
+      "relevance_score": 3,
+      "category": "Tumor heterogeneity & metastasis",
+      "category_key": "heterogeneity",
+      "ki_jl_level": 2,
+      "why_relevant": "This is the first whole-exome sequencing of a rare ILC variant, including matched lymph node metastases, and it clarifies the molecular classification and potentially targetable alterations; however, the cohort is very small (7 patients) and it has no AI, model or resistance component, so it is mainly useful background on genomics and histological subtyping.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_journals"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42950386",
+      "title": "To stop or not to stop? International physician survey on HER2 targeted therapy for metastatic breast cancer patients in remission.",
+      "journal": "Breast",
+      "pub_date": "2026 Oct 12",
+      "authors": [
+        "Lee HY",
+        "Ong WS",
+        "Tjan-Heijnen V",
+        "Lambertini M",
+        "Lu YS",
+        "Park KH"
+      ],
+      "author_count": 28,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42950386/",
+      "doi": "10.1016/j.breast.2026.104935",
+      "mesh_terms": [],
+      "relevance_score": 2,
+      "category": "Clinical research",
+      "category_key": "clinical",
+      "ki_jl_level": 1,
+      "why_relevant": "A physician opinion survey on stopping maintenance HER2-targeted therapy in HER2+ MBC patients in remission; it touches anti-HER2 therapy but has no biomarker, pathology, heterogeneity or resistance-mechanism data.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_journals"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42949540",
+      "title": "Extracellular matrix stiffness controls Transposable Elements through Pin1 to promote immune evasion in breast cancer.",
+      "journal": "Cancer Discov",
+      "pub_date": "2026 Oct 28",
+      "authors": [
+        "Bertolio R",
+        "Rustighi A",
+        "Renzi A",
+        "Campaner E",
+        "Cancila V",
+        "Napoletano F"
+      ],
+      "author_count": 46,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42949540/",
+      "doi": "10.1158/2159-8290.CD-25-0942",
+      "mesh_terms": [],
+      "relevance_score": 3,
+      "category": "Treatment resistance & response prediction",
+      "category_key": "resistance",
+      "ki_jl_level": 3,
+      "why_relevant": "A high-impact mechanistic study of ECM stiffness-driven immune evasion and checkpoint-blockade sensitization in breast cancer (Pin1/TE/cGAS-STING), which touches on immunotherapy resistance and tumor microenvironment heterogeneity, but it is largely preclinical and has no digital pathology, patient-derived model or routine biomarker angle.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_journals"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42949420",
+      "title": "Neuroendocrine Differentiation Mediates Escape from HER2-Targeted Therapy in Breast Cancer.",
+      "journal": "Cancer Discov",
+      "pub_date": "2026 Oct 28",
+      "authors": [
+        "Würth R",
+        "Cheytan T",
+        "Schwerd-Kleine P",
+        "Gutjahr E",
+        "Donato E",
+        "Thewes V"
+      ],
+      "author_count": 28,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42949420/",
+      "doi": "10.1158/2159-8290.CD-26-1312",
+      "mesh_terms": [],
+      "relevance_score": 5,
+      "category": "Treatment resistance & response prediction",
+      "category_key": "resistance",
+      "ki_jl_level": 3,
+      "why_relevant": "Identifies neuroendocrine differentiation as a new mechanism of escape from anti-HER2 therapy, validated in progressive patient cases and in patient-derived organoid and xenograft models. It also addresses primary-metastasis phenotypic divergence and HER2 loss, which are core themes for the group (resistance mechanisms, heterogeneity, patient-derived models), and it was published in a top-tier journal.",
+      "deep_analysis": {
+        "central_finding": "Neuroendocrine differentiation emerges or increases in about 22% of progressive breast cancers, mainly HER2-positive, and drives escape from HER2-targeted therapy through epigenetic silencing of EpCAM and amplified HER2, NEUROD1-driven neuroendocrine fate, and FGFR1 dependency.",
+        "design_and_data": "Analysis of progressive patient cases (neuroendocrine features in 22%) combined with patient-derived epithelial and neuroendocrine organoid and xenograft models, used for epigenetic and transcriptional profiling to define a neuroendocrine signature, plus detection of NCAM-positive putative circulating tumor cells in patients where EpCAM-based detection failed.",
+        "limitation": "The abstract gives no cohort sizes or independent validation cohorts, and the mechanistic findings (NEUROD1 regulation, FGFR1 dependency) rest on a limited number of patient-derived models, so generalizability across breast cancer subtypes and patients is uncertain."
+      },
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_journals",
+        "breast_focus"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42946309",
+      "title": "Prospective circulating tumour DNA surveillance in patients with early high-risk hormone receptor positive, HER2-negative breast cancer in the TRAK-ER study.",
+      "journal": "Ann Oncol",
+      "pub_date": "2026 Oct 27",
+      "authors": [
+        "Cunningham N",
+        "Swift C",
+        "Cutts RJ",
+        "Thomas K",
+        "Infirri SS",
+        "Dalenc F"
+      ],
+      "author_count": 22,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42946309/",
+      "doi": "10.1016/j.annonc.2026.10.1292",
+      "mesh_terms": [],
+      "relevance_score": 3,
+      "category": "Biomarkers & molecular diagnostics",
+      "category_key": "biomarkers",
+      "ki_jl_level": 3,
+      "why_relevant": "A large prospective ctDNA surveillance study in high-risk ER+/HER2- early breast cancer (Ann Oncol) that gives molecular relapse rates and detection factors and is adjacent to the group's focus on risk assessment beyond routine IHC. It is a liquid-biopsy trial rather than pathology, AI or patient-derived models, and the treatment-intervention results are not yet reported.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_journals"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42945961",
+      "title": "CPS + EG and Neo-Bioscore predict individual outcomes but not trial results after neoadjuvant therapy for early breast cancer.",
+      "journal": "Cancer Cell",
+      "pub_date": "2026 Oct 27",
+      "authors": [
+        "Conforti F",
+        "Nekljudova V",
+        "Holtschmidt J",
+        "Sala I",
+        "Pagan E",
+        "Solbach C"
+      ],
+      "author_count": 33,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42945961/",
+      "doi": "10.1016/j.ccell.2026.10.002",
+      "mesh_terms": [],
+      "relevance_score": 4,
+      "category": "Biomarkers & molecular diagnostics",
+      "category_key": "biomarkers",
+      "ki_jl_level": 3,
+      "why_relevant": "Large pooled analysis (8,359 patients, nine GBG/AGO-B trials) validates post-neoadjuvant prognostic scores that combine pathology and biology (CPS+EG, Neo-Bioscore) and shows they work for individual risk but not as trial-level surrogates, which bears directly on risk assessment and neoadjuvant response prediction beyond routine IHC, although it has no digital pathology or model component.",
+      "deep_analysis": {
+        "central_finding": "Both CPS+EG and Neo-Bioscore were significantly associated with long-term outcomes at the individual patient level, but their trial-level associations with DDFS, iDFS and OS were weak (R² 0.03–0.24 with wide confidence intervals), so neither qualifies as a surrogate endpoint for long-term treatment benefit.",
+        "design_and_data": "Pooled surrogacy analysis of 8,359 patients from nine randomized neoadjuvant trials run by the German Breast Group and AGO-B, assessing patient-level and trial-level associations of the two post-neoadjuvant scores with DDFS, iDFS and OS.",
+        "limitation": "Trial-level surrogacy estimates are imprecise, with wide confidence intervals, because they rest on only nine trials, which limits how firmly the lack of surrogacy can be established."
+      },
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_journals"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42945140",
+      "title": "The right drug, the wrong assay: TROP2-ADC assessment in breast cancer.",
+      "journal": "J Natl Cancer Inst",
+      "pub_date": "2026 Oct 27",
+      "authors": [
+        "He M",
+        "Rimm DL"
+      ],
+      "author_count": 2,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42945140/",
+      "doi": "10.1093/jnci/djag275",
+      "mesh_terms": [],
+      "relevance_score": 3,
+      "category": "Biomarkers & molecular diagnostics",
+      "category_key": "biomarkers",
+      "ki_jl_level": 2,
+      "why_relevant": "The title suggests a commentary on assay choice for assessing TROP2 as a predictive biomarker for ADCs in breast cancer, which touches the group's interest in biomarkers beyond routine IHC and in ADC response. No abstract or data are available, and it is likely a short opinion piece, so it is worth skimming only.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_journals"
+      ],
+      "publication_types": [
+        "Editorial",
+        "Comment"
+      ]
+    },
+    {
+      "pmid": "42933638",
+      "title": "Sacituzumab tirumotecan versus chemotherapy in previously treated locally recurrent or metastatic triple-negative breast cancer: final overall survival analysis of the Phase III OptiTROP-Breast01.",
+      "journal": "Ann Oncol",
+      "pub_date": "2026 Dec 31",
+      "authors": [
+        "Xu B",
+        "Yin Y",
+        "Fan Y",
+        "Ouyang Q",
+        "Song L",
+        "Wang X"
+      ],
+      "author_count": 19,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42933638/",
+      "doi": "10.1016/j.annonc.2026.10.098",
+      "mesh_terms": [],
+      "relevance_score": 3,
+      "category": "Clinical research",
+      "category_key": "clinical",
+      "ki_jl_level": 3,
+      "why_relevant": "A high-impact phase III final OS analysis of the TROP2 ADC sac-TMT in pretreated TNBC, relevant background for ADC resistance and response prediction, but it is a clinical trial report without biomarker, pathology or heterogeneity analyses.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_journals"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42933459",
+      "title": "Izalontamab brengitecan for HR+/HER2- breast cancer in China (PANKU-Breast01): a randomised, phase 3 trial.",
+      "journal": "Lancet",
+      "pub_date": "2026 Oct 26",
+      "authors": [
+        "Lan B",
+        "Shi Y",
+        "Shao X",
+        "Wu F",
+        "Wang S",
+        "Xie W"
+      ],
+      "author_count": 43,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42933459/",
+      "doi": "10.1016/S0140-6736(26)02096-9",
+      "mesh_terms": [],
+      "relevance_score": 3,
+      "category": "Clinical research",
+      "category_key": "clinical",
+      "ki_jl_level": 3,
+      "why_relevant": "A large, positive phase 3 trial of an EGFR/HER3 bispecific ADC in heavily pretreated HR+/HER2- breast cancer; it is relevant background for ADC resistance and target-expression heterogeneity, but it is a clinical efficacy trial with no pathology or biomarker analysis in the abstract (HER2 status is only a stratification factor).",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_journals"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42933438",
+      "title": "There is beauty after breast cancer.",
+      "journal": "Lancet Oncol",
+      "pub_date": "2026 Nov",
+      "authors": [
+        "Wilkinson E"
+      ],
+      "author_count": 1,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42933438/",
+      "doi": "10.1016/S1470-2045(26)00466-3",
+      "mesh_terms": [],
+      "relevance_score": 1,
+      "category": "Other",
+      "category_key": "other",
+      "ki_jl_level": 3,
+      "why_relevant": "A short piece with no abstract, apparently a non-research commentary, with no apparent link to the group's work on digital pathology, biomarkers, heterogeneity, resistance or patient-derived models.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_journals"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42933397",
+      "title": "Tumor digital twins uncover therapeutic strategies in triple-negative breast cancer.",
+      "journal": "Cell Rep Med",
+      "pub_date": "2026 Oct 28",
+      "authors": [
+        "Victori P",
+        "Hua K",
+        "Twigger AJ",
+        "Anand A",
+        "Bose ZM",
+        "Clarke MA"
+      ],
+      "author_count": 16,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42933397/",
+      "doi": "10.1016/j.xcrm.2026.103119",
+      "mesh_terms": [],
+      "relevance_score": 4,
+      "category": "Treatment resistance & response prediction",
+      "category_key": "resistance",
+      "ki_jl_level": 2,
+      "why_relevant": "A mechanistic digital-twin framework for TNBC that predicts treatment response and resistance mechanisms from patient-specific molecular data, validated on clinical trial data (PARTNER). This fits the group's interest in treatment prediction beyond routine IHC and in resistance and clonal evolution, but it is molecular rather than pathology- or image-based.",
+      "deep_analysis": {
+        "central_finding": "A mechanistic qualitative network-based digital twin of TNBC, parameterized with patient-specific molecular data, predicts treatment response, identifies resistance mechanisms and mutational and transcriptional biomarkers of outcome, and proposes tailored treatment plans to overcome resistance.",
+        "design_and_data": "The model is a prior-knowledge-based network with genes and proteins as nodes and their interactions as edges, and it was validated on clinical and molecular data from the randomized PARTNER trial of platinum-based chemotherapy with or without PARP inhibitor.",
+        "limitation": "The abstract describes validation only in the PARTNER trial cohort and reports no image or pathology input, so the model's generalizability to other cohorts and its handling of spatial or clonal heterogeneity are not shown."
+      },
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_journals"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42932238",
+      "title": "Tailoring adjuvant endocrine therapy in patients with estrogen receptor-low breast cancer.",
+      "journal": "J Natl Cancer Inst",
+      "pub_date": "2026 Oct 26",
+      "authors": [
+        "Etessami JD",
+        "Curigliano G",
+        "Valenza C"
+      ],
+      "author_count": 3,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42932238/",
+      "doi": "10.1093/jnci/djag354",
+      "mesh_terms": [],
+      "relevance_score": 3,
+      "category": "Biomarkers & molecular diagnostics",
+      "category_key": "biomarkers",
+      "ki_jl_level": 2,
+      "why_relevant": "ER-low breast cancer sits at the edge of routine ER IHC interpretation and its predictive value for endocrine therapy, which fits the group's interest in biomarkers beyond standard IHC. No abstract is available, so the study design and strength of evidence cannot be judged, and it may be a short commentary or letter.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_journals"
+      ],
+      "publication_types": [
+        "Editorial",
+        "Comment"
+      ]
+    },
+    {
+      "pmid": "42932003",
+      "title": "GLP-1 receptor agonist-associated weight loss in breast cancer patients receiving concurrent endocrine therapy: a retrospective cohort analysis.",
+      "journal": "Breast Cancer Res Treat",
+      "pub_date": "2026 Oct 26",
+      "authors": [
+        "Cronin KM",
+        "Tiersten A"
+      ],
+      "author_count": 2,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42932003/",
+      "doi": "10.1007/s10549-026-08096-z",
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Breast Neoplasms*",
+        "Weight Loss*",
+        "Glucagon-Like Peptide-1 Receptor Agonists*",
+        "Retrospective Studies",
+        "Middle Aged",
+        "Tirzepatide",
+        "Semaglutide",
+        "Aged",
+        "Antineoplastic Agents, Hormonal*",
+        "Adult",
+        "Treatment Outcome",
+        "Immunoglobulin Fc Fragments",
+        "Glucagon-Like Peptides",
+        "Glucagon-Like Peptide-1 Receptor",
+        "Recombinant Fusion Proteins"
+      ],
+      "relevance_score": 1,
+      "category": "Clinical research",
+      "category_key": "clinical",
+      "ki_jl_level": 1,
+      "why_relevant": "A retrospective clinical cohort on GLP-1 RA weight loss during endocrine therapy with no pathology, AI, heterogeneity, resistance-mechanism or model component; the only link is an incidental PR-status subgroup finding.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_journals"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42931995",
+      "title": "Circulating tumor cells in lobular versus ductal metastatic breast cancer.",
+      "journal": "Breast Cancer Res Treat",
+      "pub_date": "2026 Oct 26",
+      "authors": [
+        "Dolce EM",
+        "Darga EP",
+        "Henderson NC",
+        "Thomas DG",
+        "Hanauer DA",
+        "Chinnaiyan AM"
+      ],
+      "author_count": 11,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42931995/",
+      "doi": "10.1007/s10549-026-08111-3",
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Neoplastic Cells, Circulating*",
+        "Breast Neoplasms*",
+        "Carcinoma, Lobular*",
+        "Carcinoma, Ductal, Breast*",
+        "Middle Aged",
+        "Aged",
+        "Prognosis",
+        "Neoplasm Metastasis",
+        "Adult",
+        "Biomarkers, Tumor"
+      ],
+      "relevance_score": 3,
+      "category": "Tumor heterogeneity & metastasis",
+      "category_key": "heterogeneity",
+      "ki_jl_level": 1,
+      "why_relevant": "Compares CTC burden between lobular and ductal metastatic breast cancer in two validated cohorts, which touches on metastatic biology and histotype-specific differences. It has no pathology, AI or model component and uses only CellSearch counts, so it is background reading for the group.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_journals"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42931983",
+      "title": "Efficacy and toxicity for pembrolizumab-containing therapy in older adults with triple-negative breast cancer: insights from routine oncology practice.",
+      "journal": "Breast Cancer Res Treat",
+      "pub_date": "2026 Oct 26",
+      "authors": [
+        "Smith CE",
+        "Rami A",
+        "Li T",
+        "Tayob N",
+        "Patel P",
+        "Burstein HJ"
+      ],
+      "author_count": 9,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42931983/",
+      "doi": "10.1007/s10549-026-08112-2",
+      "mesh_terms": [
+        "Humans",
+        "Antibodies, Monoclonal, Humanized*",
+        "Female",
+        "Triple Negative Breast Neoplasms*",
+        "Aged",
+        "Aged, 80 and over",
+        "Antineoplastic Combined Chemotherapy Protocols*",
+        "Middle Aged",
+        "Pathologic Complete Response",
+        "Treatment Outcome",
+        "Antineoplastic Agents, Immunological*"
+      ],
+      "relevance_score": 2,
+      "category": "Clinical research",
+      "category_key": "clinical",
+      "ki_jl_level": 1,
+      "why_relevant": "A retrospective real-world study of pembrolizumab toxicity and efficacy in older TNBC patients with no biomarker, pathology or heterogeneity component, so it is only tangentially related to the group's focus on treatment prediction beyond routine markers.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_journals"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42931859",
+      "title": "Risk of malignancy after diagnosis of radial sclerosing lesion with associated atypia.",
+      "journal": "Breast Cancer Res Treat",
+      "pub_date": "2026 Oct 26",
+      "authors": [
+        "Delgado Casanova LB",
+        "Dhamne S",
+        "Resetkova E",
+        "Guirguis MS",
+        "Geng Y",
+        "Bevers TB"
+      ],
+      "author_count": 9,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42931859/",
+      "doi": "10.1007/s10549-026-08103-3",
+      "mesh_terms": [
+        "Adult",
+        "Aged",
+        "Female",
+        "Humans",
+        "Middle Aged",
+        "Biopsy, Large-Core Needle",
+        "Breast Neoplasms*",
+        "Carcinoma, Intraductal, Noninfiltrating*",
+        "Image-Guided Biopsy",
+        "Incidence",
+        "Sclerosis",
+        "Cohort Studies"
+      ],
+      "relevance_score": 2,
+      "category": "Clinical research",
+      "category_key": "clinical",
+      "ki_jl_level": 1,
+      "why_relevant": "A single-institution cohort on upgrade risk of radial sclerosing lesions with atypia on core biopsy, which touches breast pathology and risk stratification but has no molecular, AI or heterogeneity component and concerns benign/high-risk lesions rather than the group's focus on tumor biology and treatment prediction.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_journals"
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Observational Study"
+      ]
+    },
+    {
+      "pmid": "42967408",
+      "title": "Mind the Gap: Continuous magnification sampling for pathology foundation models.",
+      "journal": "Med Image Anal",
+      "pub_date": "2026 Oct 01",
+      "authors": [
+        "Möllers A",
+        "Hense J",
+        "Schulz F",
+        "Milbich T",
+        "Alber M",
+        "Ruff L"
+      ],
+      "author_count": 6,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42967408/",
+      "doi": "10.1016/j.media.2026.104327",
+      "mesh_terms": [],
+      "relevance_score": 4,
+      "category": "Digital pathology & AI",
+      "category_key": "digital_pathology",
+      "ki_jl_level": 3,
+      "why_relevant": "A methods paper in a top-level journal on how magnification sampling affects pathology foundation models, with new benchmarks (including breast-based BRACS-MS) and a comparison of current models, which is useful for a group building and validating clinical-grade H&E AI tools. It is not breast-specific and offers no direct clinical validation, so it stops short of a must-read.",
+      "deep_analysis": {
+        "central_finding": "Framing magnification sampling as multi-source domain adaptation, the authors show that discrete uniform sampling (0.25, 0.5, 1.0, 2.0 mpp) degrades performance at intermediate magnifications, whereas continuous magnification sampling closes these gaps, keeps performance at standard scales, and improves balanced accuracy by up to 4 percentage points, with optimized sampling distributions giving further gains.",
+        "design_and_data": "Theoretical framework plus empirical training and evaluation of pathology foundation models on two newly introduced multi-scale benchmarks (TCGA-MS and the breast-derived BRACS-MS) with dedicated metrics, and a benchmark comparison of current histopathology foundation models across magnifications.",
+        "limitation": "The evidence comes from benchmark-based downstream classification tasks derived from TCGA and BRACS, with no clinical or prospective validation, so the findings may not generalize to other tissues or real-world diagnostic settings."
+      },
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "computational_pathology"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42966031",
+      "title": "Computational image features of immune architecture reveal molecular patterns associated with outcome and risk of recurrence in microsatellite-stable or MSI-low colon cancers.",
+      "journal": "Eur J Cancer",
+      "pub_date": "2026 Oct 29",
+      "authors": [
+        "Song B",
+        "Maurya H",
+        "Khalighi S",
+        "Aqeel A",
+        "Corredor G",
+        "Hammouda K"
+      ],
+      "author_count": 16,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42966031/",
+      "doi": "10.1016/j.ejca.2026.117810",
+      "mesh_terms": [],
+      "relevance_score": 3,
+      "category": "Digital pathology & AI",
+      "category_key": "digital_pathology",
+      "ki_jl_level": 2,
+      "why_relevant": "Not breast cancer, but a well-validated H&E whole-slide image framework (external cohorts, benchmarked against eight foundation-model MIL approaches) that quantifies spatial TIL architecture for risk prediction, which is methodologically relevant to the group's AI-based risk assessment work.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "computational_pathology"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42957777",
+      "title": "A clinical multimodal vision language foundation model with fine-grain explainability.",
+      "journal": "Nat Med",
+      "pub_date": "2026 Oct 29",
+      "authors": [
+        "Bai Y",
+        "Cheng H",
+        "Zhou Y",
+        "Zhou J",
+        "Thirunavukarasu A",
+        "Ke Y"
+      ],
+      "author_count": 49,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42957777/",
+      "doi": "10.1038/s41591-026-04655-5",
+      "mesh_terms": [],
+      "relevance_score": 3,
+      "category": "Digital pathology & AI",
+      "category_key": "digital_pathology",
+      "ki_jl_level": 3,
+      "why_relevant": "A high-impact multimodal vision-language foundation model with explainability, validated across 10 imaging modalities and including pathology, is a methods advance the group could compare against for clinical-grade AI. It is not breast cancer- or H&E-specific, and pathology is only one of six specialties, so direct applicability is limited.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "computational_pathology"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42957740",
+      "title": "Deep learning predicts IDH1 mutation status in acute myeloid leukemia from bone marrow smears.",
+      "journal": "NPJ Precis Oncol",
+      "pub_date": "2026 Oct 29",
+      "authors": [
+        "Eckardt JN",
+        "Reddy CBV",
+        "Srisuwananukorn A",
+        "Pohlkamp C",
+        "Schübel M",
+        "Srivastava I"
+      ],
+      "author_count": 22,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42957740/",
+      "doi": "10.1038/s41698-026-01762-x",
+      "mesh_terms": [],
+      "relevance_score": 3,
+      "category": "Digital pathology & AI",
+      "category_key": "digital_pathology",
+      "ki_jl_level": 1,
+      "why_relevant": "Not breast cancer, but it uses attention-based multiple-instance learning on whole-slide images to predict a mutation, with multicenter data (436 patients, 4 centers) and an interpretability analysis; this is methodologically close to the group's AI-on-histopathology work for molecular prediction, though the cytology/hematology setting and moderate AUC (0.81) limit direct applicability.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "computational_pathology"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42956750",
+      "title": "Interpretable deep learning maps spatial morphological phenotypes to HCC and LUAD survival.",
+      "journal": "Cell Rep Med",
+      "pub_date": "2026 Oct 29",
+      "authors": [
+        "Liu Z",
+        "Wu Q",
+        "Lin H",
+        "Yang D",
+        "Tang C",
+        "Lu X"
+      ],
+      "author_count": 15,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42956750/",
+      "doi": "10.1016/j.xcrm.2026.103126",
+      "mesh_terms": [],
+      "relevance_score": 4,
+      "category": "Digital pathology & AI",
+      "category_key": "digital_pathology",
+      "ki_jl_level": 2,
+      "why_relevant": "Although it covers HCC and LUAD rather than breast cancer, this multi-center, externally validated, interpretable H&E whole-slide image survival model links nuclear and texture morphology to biology and heterogeneity, which fits the group's AI-based risk assessment work and could serve as a methodological comparator.",
+      "deep_analysis": {
+        "central_finding": "MorphX, an interpretable framework that fuses macro-scale tissue texture with micro-scale nuclear metrics from H&E whole-slide images, predicts survival in HCC and LUAD (C-index 0.775-0.799 in discovery cohorts) and yields eight morphology-based biomarkers (texture heterogeneity in necrotic regions, lymphocyte density, nuclear shape) with reproducible survival associations across independent cohorts.",
+        "design_and_data": "Multi-center retrospective study of 1,067 patients with hepatocellular carcinoma and lung adenocarcinoma using H&E whole-slide images, with model development in discovery cohorts and testing of the derived biomarkers in independent cohorts.",
+        "limitation": "The abstract reports C-indices only for discovery cohorts and gives no external-cohort performance figures, and the study covers only HCC and LUAD, so generalisability beyond these tumour types (including breast cancer) is untested."
+      },
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "computational_pathology"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42956511",
+      "title": "Learning discriminative prototypes via Variational Information Bottleneck for multimodal cancer survival prediction.",
+      "journal": "Med Image Anal",
+      "pub_date": "2026 Oct 26",
+      "authors": [
+        "Tan Z",
+        "Cao R",
+        "Wei P",
+        "Su Y",
+        "Zheng C"
+      ],
+      "author_count": 5,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42956511/",
+      "doi": "10.1016/j.media.2026.104361",
+      "mesh_terms": [],
+      "relevance_score": 3,
+      "category": "Digital pathology & AI",
+      "category_key": "digital_pathology",
+      "ki_jl_level": 3,
+      "why_relevant": "A multimodal WSI-genomics MIL method for survival prediction that is relevant to the group's computational pathology work, but it is validated only on TCGA cohorts across several cancer types, with no independent validation and no breast-specific or clinical-grade focus.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "computational_pathology"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42955008",
+      "title": "FGFR Alterations in Bladder Cancer-From Molecular Pathogenesis to Precision Oncology.",
+      "journal": "JAMA Oncol",
+      "pub_date": "2026 Oct 29",
+      "authors": [
+        "Collins K",
+        "Cheng L"
+      ],
+      "author_count": 2,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42955008/",
+      "doi": "10.1001/jamaoncol.2026.4196",
+      "mesh_terms": [],
+      "relevance_score": 2,
+      "category": "Biomarkers & molecular diagnostics",
+      "category_key": "biomarkers",
+      "ki_jl_level": 3,
+      "why_relevant": "A review of FGFR biomarkers and targeted therapy in bladder cancer, with only a passing mention of AI-assisted pathology. It is not about breast cancer, and the group's focus on computational pathology, heterogeneity or patient-derived models is touched on only marginally, so it is general precision-oncology background.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "computational_pathology"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42947509",
+      "title": "Beyond a single ratio: an adaptable deep learning approach to analyze the prognostic value of TSP distribution in ovarian cancer.",
+      "journal": "J Pathol",
+      "pub_date": "2026 Oct 27",
+      "authors": [
+        "Firmbach D",
+        "Kuritcyn P",
+        "Benz M",
+        "Strissel PL",
+        "Strick R",
+        "Beckmann MW"
+      ],
+      "author_count": 12,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42947509/",
+      "doi": "10.1002/path.70142",
+      "mesh_terms": [],
+      "relevance_score": 3,
+      "category": "Digital pathology & AI",
+      "category_key": "digital_pathology",
+      "ki_jl_level": 3,
+      "why_relevant": "A deep learning pipeline on H&E whole-slide images that quantifies the whole-tumor distribution of tumor-stroma percentage as a spatial heterogeneity biomarker, which fits the group's AI-pathology and heterogeneity interests. However, it is in ovarian cancer with only 98 patients and no clear external validation, so it is useful mainly as methodological background.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "computational_pathology"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42944677",
+      "title": "Histopathology-Based Spatial Profiling of Immune and Molecular Features Predicts Cancer Risk in Barrett's Esophagus Patients.",
+      "journal": "Cancer Res",
+      "pub_date": "2026 Oct 27",
+      "authors": [
+        "Ercan C",
+        "Pan X",
+        "Paulson TG",
+        "Stachler MD",
+        "Göknur Akarca F",
+        "Grady WM"
+      ],
+      "author_count": 8,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42944677/",
+      "doi": "10.1158/0008-5472.CAN-26-1476",
+      "mesh_terms": [],
+      "relevance_score": 4,
+      "category": "Digital pathology & AI",
+      "category_key": "digital_pathology",
+      "ki_jl_level": 3,
+      "why_relevant": "Not breast cancer, but a well-validated multi-institution deep learning study on routine H&E that predicts a molecular feature (DNA content) and spatial immune ecology to stratify risk. This is close to the group's work on AI-based prediction of molecular and risk information from whole-slide images and on spatial heterogeneity.",
+      "deep_analysis": {
+        "central_finding": "BEACON, a framework that combines deep learning prediction of DNA content abnormality (DACOR) from H&E with spatial immune ecology metrics such as plasma cell clustering next to abnormal epithelium, stratified DNA-content-abnormal Barrett's esophagus patients into high- and low-risk groups that corresponded with cancer progression and survival.",
+        "design_and_data": "DACOR, a multi-instance learning model, was trained on 777 BE biopsies with flow cytometry DNA content data scanned at two institutions and evaluated on validation and test sets; cell classification and tissue segmentation models then supplied immune spatial metrics, which were combined with molecular and epithelial morphology features in a logistic regression risk model.",
+        "limitation": "The abstract does not describe independent external validation of the integrated risk model or the size of the progressor cohort, so the generalizability of the risk stratification is unclear, and the plasma cell clustering finding rests on associations within a subset of DNA-content-abnormal patients."
+      },
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "computational_pathology"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42967470",
+      "title": "RF-based ultrasound elastography image reconstruction using biomechanically informed deep learning.",
+      "journal": "J Mech Behav Biomed Mater",
+      "pub_date": "2026 Oct 29",
+      "authors": [
+        "Boutin J",
+        "Wang Z",
+        "Samani A"
+      ],
+      "author_count": 3,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42967470/",
+      "doi": "10.1016/j.jmbbm.2026.107697",
+      "mesh_terms": [],
+      "relevance_score": 1,
+      "category": "Other",
+      "category_key": "other",
+      "ki_jl_level": 1,
+      "why_relevant": "This is a deep-learning ultrasound elastography reconstruction study trained on finite-element simulated data. It does not involve histopathology, molecular biomarkers, heterogeneity, resistance or patient-derived models, so it only touches the group's interests through the use of breast cancer AI.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_focus"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42964775",
+      "title": "Virtual IHC Synthesis and Bimodal Fusion for Patch-Level Classification of HER2 IHC Expression in Breast Cancer.",
+      "journal": "Cancer Manag Res",
+      "pub_date": "2026",
+      "authors": [
+        "Tang Y",
+        "Chen K",
+        "Yang X",
+        "Hui H",
+        "Wu C",
+        "Li N"
+      ],
+      "author_count": 8,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42964775/",
+      "doi": "10.2147/CMAR.S647760",
+      "mesh_terms": [],
+      "relevance_score": 3,
+      "category": "Digital pathology & AI",
+      "category_key": "digital_pathology",
+      "ki_jl_level": 1,
+      "why_relevant": "It predicts HER2 IHC categories (0/1+/2+/3+) from H&E using virtual staining and bimodal fusion, which fits the group's AI-on-H&E work beyond routine IHC. However, the cohort is small (48 patients, single centre), there is no independent validation, and patch-level accuracy is modest (67%), so it is only worth skimming.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_focus"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42964571",
+      "title": "Breast cancer adaptation to oxygen stress: mechanisms of tumor survival, progression, and therapeutic resistance.",
+      "journal": "Oncol Rev",
+      "pub_date": "2026",
+      "authors": [
+        "Obeagu EI",
+        "Edeoga IH"
+      ],
+      "author_count": 2,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42964571/",
+      "doi": "10.3389/or.2026.1959034",
+      "mesh_terms": [],
+      "relevance_score": 3,
+      "category": "Treatment resistance & response prediction",
+      "category_key": "resistance",
+      "ki_jl_level": 1,
+      "why_relevant": "A narrative review on hypoxia and oxygen-stress adaptation as a driver of resistance to endocrine and HER2-directed therapy, touching on spatial and subtype heterogeneity. It is useful background for the group's resistance and heterogeneity work, but it presents no new data, patient-material validation or pathology/AI component.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_focus"
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42963391",
+      "title": "ATAD2B governs epigenetic silencing of the epithelial program to fuel cancer metastasis and neuronal migration.",
+      "journal": "EMBO J",
+      "pub_date": "2026 Oct 30",
+      "authors": [
+        "Mahesh A",
+        "Inayatullah M",
+        "Terp MG",
+        "Zang Z",
+        "Mariasoosai C",
+        "Larsen MR"
+      ],
+      "author_count": 10,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42963391/",
+      "doi": "10.1038/s44318-026-00933-7",
+      "mesh_terms": [],
+      "relevance_score": 3,
+      "category": "Tumor heterogeneity & metastasis",
+      "category_key": "heterogeneity",
+      "ki_jl_level": 3,
+      "why_relevant": "A mechanistic study of epigenetic control of EMT and metastasis that uses breast cancer lines, patient-derived organoids and in vivo lung metastasis, which touches the group's interest in metastatic biology and patient-derived models, but it is not about pathology, biomarkers or treatment response.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_focus"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42962665",
+      "title": "An interpretable deep learning framework for revealing fine-grained spatial domains.",
+      "journal": "Cell Rep Methods",
+      "pub_date": "2026 Oct 30",
+      "authors": [
+        "Feng X",
+        "Wang C",
+        "Cao B",
+        "Wang Y",
+        "Chen L",
+        "Qi J"
+      ],
+      "author_count": 12,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42962665/",
+      "doi": "10.1016/j.crmeth.2026.101646",
+      "mesh_terms": [],
+      "relevance_score": 3,
+      "category": "Tumor heterogeneity & metastasis",
+      "category_key": "heterogeneity",
+      "ki_jl_level": 1,
+      "why_relevant": "A spatial transcriptomics domain-identification method that is also applied to breast cancer datasets (a hypoxic, T-cell-suppressed microenvironment and an EMT gradient in IDC with over 720,000 cells), which is useful background for spatial heterogeneity work, but it is a general computational methods paper with no H&E, patient-material validation or treatment-response link.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_focus"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42960993",
+      "title": "DiST: disentangling structure via self-supervised tensors for heterophilous spatial transcriptomics.",
+      "journal": "Brief Bioinform",
+      "pub_date": "2026 Sep 01",
+      "authors": [
+        "Liu Y",
+        "Hu Y",
+        "Liu J",
+        "Tan S",
+        "Li X",
+        "Huang G"
+      ],
+      "author_count": 9,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42960993/",
+      "doi": "10.1093/bib/bbag600",
+      "mesh_terms": [
+        "Spatial Transcriptomics*",
+        "Humans",
+        "Breast Neoplasms*",
+        "Algorithms",
+        "Female",
+        "Transcriptome*"
+      ],
+      "relevance_score": 3,
+      "category": "Tumor heterogeneity & metastasis",
+      "category_key": "heterogeneity",
+      "ki_jl_level": 2,
+      "why_relevant": "A spatial transcriptomics domain-identification method, validated on human breast cancer data, that could help the group study spatial and functional heterogeneity. It is a general computational methods paper with limited breast-specific validation and no link to treatment response or histopathology.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_focus"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42958571",
+      "title": "Ki67 assessment, digital image analysis, and PAM50/Prosigna subtype divergence in early ER-positive breast cancer.",
+      "journal": "J Transl Med",
+      "pub_date": "2026 Jul 31",
+      "authors": [
+        "Zito Marino F",
+        "Amato M",
+        "D'abbronzo G",
+        "Biasi A",
+        "Ruggiero A",
+        "Arpino G"
+      ],
+      "author_count": 14,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42958571/",
+      "doi": "10.1186/s12967-026-08743-5",
+      "mesh_terms": [
+        "Humans",
+        "Breast Neoplasms*",
+        "Ki-67 Antigen*",
+        "Female",
+        "Receptors, Estrogen*",
+        "Immunohistochemistry",
+        "Image Processing, Computer-Assisted*",
+        "Erb-b2 Receptor Tyrosine Kinases"
+      ],
+      "relevance_score": 4,
+      "category": "Biomarkers & molecular diagnostics",
+      "category_key": "biomarkers",
+      "ki_jl_level": 1,
+      "why_relevant": "Directly addresses the group's core question of going beyond routine IHC (Ki67 reproducibility, digital Ki67 image analysis) by comparing surrogate subtyping with PAM50/Prosigna in ER-positive early breast cancer, though it is a modest-sized single-cohort study in a level 1 journal.",
+      "deep_analysis": {
+        "central_finding": "IHC-based surrogate subtyping and Prosigna PAM50 intrinsic subtyping diverged in 34% of early ER-positive breast cancers (26 IHC Luminal B cases reclassified as Luminal A or HER2-enriched, 8 Luminal A cases reclassified as Luminal B), with divergence concentrated in a Ki67 'grey zone' of 16-30% and peaking at 21-25%.",
+        "design_and_data": "Single-cohort retrospective comparison of IHC-derived subtypes (ER, PR, HER2, Ki67) with Prosigna PAM50 subtypes in early-stage breast cancer cases, with divergence analysed across Ki67 cut-off bands; the abstract does not give the total cohort size and reports no independent validation cohort.",
+        "limitation": "The cohort is modest and from a single centre, and the abstract does not show that second-pathologist review or digital Ki67 analysis were tested directly, so their suggested benefit for reproducibility is not demonstrated by the reported results."
+      },
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_focus"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42958400",
+      "title": "HER2-low and HER2-ultralow breast cancer in the antibody-drug conjugate era: diagnostic challenges and reporting workflow.",
+      "journal": "Diagn Pathol",
+      "pub_date": "2026 Aug 01",
+      "authors": [
+        "Liang K",
+        "Jia Z",
+        "Lu H",
+        "Yan Z",
+        "Huang H",
+        "Liu X"
+      ],
+      "author_count": 6,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42958400/",
+      "doi": "10.1186/s13000-026-01822-7",
+      "mesh_terms": [
+        "Humans",
+        "Breast Neoplasms*",
+        "Female",
+        "Erb-b2 Receptor Tyrosine Kinases*",
+        "Immunohistochemistry",
+        "Immunoconjugates*",
+        "In Situ Hybridization, Fluorescence",
+        "Biomarkers, Tumor*",
+        "Workflow",
+        "Predictive Value of Tests",
+        "Antineoplastic Agents, Immunological"
+      ],
+      "relevance_score": 3,
+      "category": "Biomarkers & molecular diagnostics",
+      "category_key": "biomarkers",
+      "ki_jl_level": 1,
+      "why_relevant": "A pathology-centered review of HER2-low/ultralow scoring, IHC interobserver variability, intratumoral heterogeneity and reporting workflow in the ADC era, which is directly adjacent to the group's biomarker and digital-scoring interests, but it is a narrative review with no new data and was published in a level 1 journal.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_focus"
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42958394",
+      "title": "RAMP3 is associated with macrophage-driven immune exclusion and promotes resistance to PD-1 blockade in breast cancer: integrated in vivo and single-cell transcriptomic analyses.",
+      "journal": "J Transl Med",
+      "pub_date": "2026 Sep 26",
+      "authors": [
+        "Zhang Y",
+        "Tanaka M",
+        "Sakurai T",
+        "Kamiyoshi A",
+        "Ichikawa-Shindo Y",
+        "Guo Q"
+      ],
+      "author_count": 15,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42958394/",
+      "doi": "10.1186/s12967-026-09001-4",
+      "mesh_terms": [
+        "Animals",
+        "Female",
+        "Macrophages*",
+        "Humans",
+        "Programmed Cell Death 1 Receptor*",
+        "Breast Neoplasms*",
+        "Tumor Microenvironment",
+        "Single-Cell Analysis*",
+        "Drug Resistance, Neoplasm*",
+        "Cell Line, Tumor",
+        "Single-Cell Gene Expression Analysis",
+        "Immune Checkpoint Inhibitors*",
+        "Mice",
+        "Gene Expression Regulation, Neoplastic",
+        "Mice, Inbred C57BL"
+      ],
+      "relevance_score": 2,
+      "category": "Treatment resistance & response prediction",
+      "category_key": "resistance",
+      "ki_jl_level": 1,
+      "why_relevant": "It proposes a macrophage-mediated mechanism of resistance to PD-1 blockade in breast cancer, but the evidence comes from syngeneic mouse models, scRNA-seq and public datasets (TCGA, public spatial data) with no validation in patient material, and the topic is only loosely connected to the group's focus on endocrine/anti-HER2 resistance and pathology.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_focus"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42957958",
+      "title": "Assessment of Metastatic Dissemination in Mouse Breast Carcinoma Models Using Magnetic Resonance Imaging (MRI).",
+      "journal": "Methods Mol Biol",
+      "pub_date": "2027",
+      "authors": [
+        "Bianchi AC",
+        "Anastasiadou DP",
+        "Cui MH",
+        "Condeelis JS",
+        "Branch CA",
+        "Karagiannis GS"
+      ],
+      "author_count": 6,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42957958/",
+      "doi": "10.1007/978-1-0716-5591-7_13",
+      "mesh_terms": [
+        "Animals",
+        "Female",
+        "Mice",
+        "Magnetic Resonance Imaging*",
+        "Humans",
+        "Breast Neoplasms*",
+        "Tumor Microenvironment",
+        "Neoplasm Metastasis",
+        "Disease Models, Animal",
+        "Cell Line, Tumor",
+        "Dynamic Contrast Enhanced Magnetic Resonance Imaging"
+      ],
+      "relevance_score": 3,
+      "category": "Tumor heterogeneity & metastasis",
+      "category_key": "heterogeneity",
+      "ki_jl_level": 1,
+      "why_relevant": "A methods protocol for MRI-based, noninvasive assessment of TMEM doorway activity and metastatic dissemination in mouse breast cancer models including PDX; it is adjacent to the group's interest in metastatic biology and patient-derived models, but it is preclinical imaging, not pathology, AI or drug response.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_focus"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42957950",
+      "title": "Intravital Imaging of the In Situ-to-Invasive Transition of Breast Cancer.",
+      "journal": "Methods Mol Biol",
+      "pub_date": "2027",
+      "authors": [
+        "Irondelle M",
+        "Chavrier P",
+        "Lodillinsky C"
+      ],
+      "author_count": 3,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42957950/",
+      "doi": "10.1007/978-1-0716-5591-7_5",
+      "mesh_terms": [
+        "Animals",
+        "Female",
+        "Humans",
+        "Breast Neoplasms*",
+        "Intravital Microscopy*",
+        "Mice",
+        "Carcinoma, Intraductal, Noninfiltrating*",
+        "Neoplasm Invasiveness",
+        "Tumor Microenvironment",
+        "Cell Line, Tumor",
+        "Disease Progression"
+      ],
+      "relevance_score": 3,
+      "category": "Patient-derived tumor models",
+      "category_key": "models",
+      "ki_jl_level": 1,
+      "why_relevant": "A methods chapter on intraductal xenografts and intravital multi-photon imaging of the DCIS-to-invasive transition. It is adjacent to the group's patient-derived and in vivo model work and to heterogeneity and progression biology, but it is a protocol with no patient-material validation, no AI or pathology component and no biomarker or resistance angle.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_focus"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42957629",
+      "title": "Constitutive androgen receptor activity sustains DNA replication programs in triple-negative breast cancer.",
+      "journal": "Cell Death Dis",
+      "pub_date": "2026 Aug 06",
+      "authors": [
+        "Li J",
+        "Yuan H",
+        "Chen K",
+        "Peng J",
+        "Du W",
+        "Li X"
+      ],
+      "author_count": 6,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42957629/",
+      "doi": "10.1038/s41419-026-09180-4",
+      "mesh_terms": [
+        "Triple Negative Breast Neoplasms*",
+        "Humans",
+        "Receptors, Androgen*",
+        "Female",
+        "Animals",
+        "DNA Replication*",
+        "Cell Line, Tumor",
+        "Hepatocyte Nuclear Factor 3-alpha",
+        "Cell Proliferation",
+        "Proteolysis Targeting Chimera",
+        "Mice",
+        "Gene Expression Regulation, Neoplastic",
+        "GATA3 Transcription Factor",
+        "Signal Transduction",
+        "Xenograft Model Antitumor Assays",
+        "Androgen Receptor Antagonists"
+      ],
+      "relevance_score": 3,
+      "category": "Treatment resistance & response prediction",
+      "category_key": "resistance",
+      "ki_jl_level": 1,
+      "why_relevant": "AR degradation by PROTAC in AR-positive TNBC cells and PDX, with a mechanistic explanation for why AR antagonists fail (androgen-independent AR/FoxA1/GATA3 activity), is adjacent to the group's interests in resistance mechanisms and patient-derived models. However, it is a preclinical, TNBC-focused study with no pathology, heterogeneity or patient-material validation, and it appeared in a level 1 journal.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_focus"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42956631",
+      "title": "Spatial context-aware breast cancer molecular subtype prediction in whole-slide images using graph convolutional networks: Cross-domain evaluation.",
+      "journal": "Comput Methods Programs Biomed",
+      "pub_date": "2026 Oct 23",
+      "authors": [
+        "Fernández-Martín C",
+        "Kiraz U",
+        "Janssen EAM",
+        "Naranjo V",
+        "Silva-Rodriguez J",
+        "Morales S"
+      ],
+      "author_count": 6,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42956631/",
+      "doi": "10.1016/j.cmpb.2026.109696",
+      "mesh_terms": [],
+      "relevance_score": 4,
+      "category": "Digital pathology & AI",
+      "category_key": "digital_pathology",
+      "ki_jl_level": 1,
+      "why_relevant": "It compares graph-based spatial context with attention-based aggregation for predicting molecular subtype from H&E whole-slide images, with cross-domain testing (biopsy to resection) and foundation model (CONCH) integration, all directly relevant to the group's AI-on-H&E work, though the journal is level 1 and accuracy is modest.",
+      "deep_analysis": {
+        "central_finding": "Graph-convolutional, spatial context-aware aggregation of H&E whole-slide image features significantly outperformed non-context-aware attention pooling for molecular subtype prediction within-domain (accuracy gains of +4.6 to +9.2 percentage points), but this advantage did not persist under biopsy-to-resection domain shift or with CONCH foundation model features.",
+        "design_and_data": "Controlled comparison of WSI2Graph-based spatial KNN graph aggregation versus attention-based pooling under identical feature extraction, using three evaluation protocols: within-domain on BCNB (1058 core-needle biopsies), constrained cross-domain transfer to SBC (533 surgical resections), and CONCH foundation model integration, with McNemar's paired tests, ablations, and interpretability analyses.",
+        "limitation": "The ablation indicates that aggregator capacity explains a substantial part of the within-domain context-aware advantage, so the gain cannot be attributed purely to spatial context, and cross-domain transfer was tested on only one biopsy-to-resection dataset pair with inconsistent task-dependent results."
+      },
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_focus"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42956516",
+      "title": "Lymph node whole-slide images provide incremental value beyond primary tumors for AI-based pCR prediction in node-positive breast cancer.",
+      "journal": "Pathol Res Pract",
+      "pub_date": "2026 Oct 23",
+      "authors": [
+        "Cui Z",
+        "Yang X",
+        "Liu Q",
+        "Wang X",
+        "Bai J",
+        "Yue M"
+      ],
+      "author_count": 7,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42956516/",
+      "doi": "10.1016/j.prp.2026.156718",
+      "mesh_terms": [],
+      "relevance_score": 4,
+      "category": "Digital pathology & AI",
+      "category_key": "digital_pathology",
+      "ki_jl_level": 1,
+      "why_relevant": "A large (n=1812) AI study on paired H&E whole-slide images of primary tumor and lymph node for neoadjuvant pCR prediction, with external validation, comparison against an IHC-based model, and transcriptomic evidence of primary-metastasis differences. This fits the group's interests in AI-based treatment prediction beyond routine IHC and in tumor-metastatic heterogeneity, though the journal is lower-tier and the external validation is only preliminary.",
+      "deep_analysis": {
+        "central_finding": "Adding a lymph node whole-slide image model (N-Net) to a primary tumor model (P-Net) via decision-level fusion (DP-Net) improved AI-based pCR prediction in node-positive breast cancer (AUROC 0.814 vs 0.793 for P-Net alone), and the gain persisted when combined with an IHC-Age model (AUROC 0.869 vs 0.855).",
+        "design_and_data": "Retrospective study of 1812 node-positive breast cancer patients treated with neoadjuvant therapy, using paired H&E whole-slide images of primary tumor and lymph node biopsies, with internal validation, a preliminary external validation cohort, attention heatmaps, and transcriptomic comparison of primary tumors and lymph node metastases.",
+        "limitation": "The external validation cohort was only preliminary and the study was retrospective, so the generalizability of the modest AUROC gains (about 0.02 over P-Net and 0.014 over IHC-Age) is uncertain."
+      },
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_focus"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42956305",
+      "title": "Mechanisms of pregnancy-associated triple negative breast cancer risk: insights from spatial omics.",
+      "journal": "Cancer Res Commun",
+      "pub_date": "2026 Oct 29",
+      "authors": [
+        "Veraksa D",
+        "Mukund K",
+        "Frankhouser DE",
+        "Yang L",
+        "Tomsic J",
+        "Pillai RK"
+      ],
+      "author_count": 14,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42956305/",
+      "doi": "10.1158/2767-9764.CRC-26-0326",
+      "mesh_terms": [],
+      "relevance_score": 3,
+      "category": "Tumor heterogeneity & metastasis",
+      "category_key": "heterogeneity",
+      "ki_jl_level": 1,
+      "why_relevant": "Spatial transcriptomic profiling (GeoMx) of epithelial and microenvironmental compartments in treatment-naïve TNBC tissue fits the group's interest in spatial heterogeneity. However, the cohort is small (33 patients), there is no apparent independent validation, and the focus on pregnancy-associated risk is adjacent to the group's core work on treatment prediction, resistance and AI pathology.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_focus"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42955968",
+      "title": "From classical survival statistics to explainable AI: A multi-method prognostic framework for triple negative breast cancer.",
+      "journal": "J Cancer Res Ther",
+      "pub_date": "2026 Jul 01",
+      "authors": [
+        "Padhi D",
+        "Majumdar SKD"
+      ],
+      "author_count": 2,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42955968/",
+      "doi": "10.4103/jcrt.jcrt_118_26",
+      "mesh_terms": [
+        "Humans",
+        "Triple Negative Breast Neoplasms*",
+        "Female",
+        "Prognosis",
+        "Artificial Intelligence*",
+        "Retrospective Studies",
+        "Middle Aged",
+        "Predictive Learning Models",
+        "Proportional Hazards Models",
+        "Machine Learning*",
+        "Kaplan-Meier Estimate",
+        "Random Forest",
+        "Adult",
+        "Aged"
+      ],
+      "relevance_score": 2,
+      "category": "Biomarkers & molecular diagnostics",
+      "category_key": "biomarkers",
+      "ki_jl_level": 1,
+      "why_relevant": "A retrospective single-cohort TNBC prognostic ML/XAI study using only clinicopathological variables, with no image or molecular data, internal validation only, and a suspiciously high C-index (0.98) suggesting leakage or overfitting, so it adds little to the group's work on pathology-based risk assessment and heterogeneity.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_focus"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42950492",
+      "title": "A simple three-variable triage rule using PR Allred score, standardized digital Ki-67, and histologic grade to identify an Oncotype DX recurrence score of 25 or less in HR+/HER2- early breast cancer.",
+      "journal": "Eur J Surg Oncol",
+      "pub_date": "2026 Oct 20",
+      "authors": [
+        "Lee J",
+        "Bae SJ",
+        "Yoon CI",
+        "Do SI",
+        "Kim EY",
+        "Park CH"
+      ],
+      "author_count": 9,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42950492/",
+      "doi": "10.1016/j.ejso.2026.112329",
+      "mesh_terms": [],
+      "relevance_score": 3,
+      "category": "Biomarkers & molecular diagnostics",
+      "category_key": "biomarkers",
+      "ki_jl_level": 1,
+      "why_relevant": "It combines standardized digital Ki-67, PR Allred score and grade to predict Oncotype DX RS ≤25 in HR+/HER2- breast cancer, which touches the group's interest in risk assessment beyond routine IHC. However, it is a single-center retrospective study with internal validation only, a selectively tested cohort, and a genomic surrogate endpoint, and it has limited AI/heterogeneity novelty.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_focus"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42947913",
+      "title": "HistoBreastCAD: an integrated deep learning framework for segmentation and multiclass classification of whole-slide breast histopathology images.",
+      "journal": "Front Bioinform",
+      "pub_date": "2026",
+      "authors": [
+        "Celi-Vega O",
+        "Jiménez-Gaona Y",
+        "Corral-Dominguez P",
+        "Gutiérrez Á",
+        "Socola-Barzallo Z"
+      ],
+      "author_count": 5,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42947913/",
+      "doi": "10.3389/fbinf.2026.1870283",
+      "mesh_terms": [],
+      "relevance_score": 2,
+      "category": "Digital pathology & AI",
+      "category_key": "digital_pathology",
+      "ki_jl_level": 1,
+      "why_relevant": "Deep learning segmentation and four-class classification on breast H&E images is on topic, but it uses public BACH-type data with only modest accuracy (~0.83), no external validation, and a coarse diagnostic task (normal/benign/in situ/invasive) rather than grading, biomarker or treatment-prediction work, so it adds little for the group.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_focus"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42947688",
+      "title": "GlycoRNA-related cellular program scoring identifies Siglec- and myeloid-associated tumor microenvironments for glycoRNA validation.",
+      "journal": "Front Immunol",
+      "pub_date": "2026",
+      "authors": [
+        "Kong M",
+        "Guan X",
+        "Jing Y",
+        "Xie Z",
+        "Zhao X",
+        "Huang S"
+      ],
+      "author_count": 8,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42947688/",
+      "doi": "10.3389/fimmu.2026.1928501",
+      "mesh_terms": [
+        "Humans",
+        "Tumor Microenvironment*",
+        "Neoplasms*",
+        "Sialic Acid Binding Immunoglobulin-like Lectins*",
+        "Gene Expression Regulation, Neoplastic",
+        "Glycosylation",
+        "Myeloid Cells*",
+        "Gene Expression Profiling"
+      ],
+      "relevance_score": 1,
+      "category": "Other",
+      "category_key": "other",
+      "ki_jl_level": 1,
+      "why_relevant": "A pan-cancer TCGA-based transcriptomic score for glycoRNA-related programs with no independent validation, no breast-cancer focus, and no digital pathology, resistance or patient-derived model component, so it only touches the group's interests in tumor microenvironment heterogeneity.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_focus"
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "pmid": "42946865",
+      "title": "SELENOP-LRP8-mediated macrophage-endothelial cell interaction promotes breast cancer vascular invasion by inducing metabolic reprogramming in endothelial cells.",
+      "journal": "Cell Mol Life Sci",
+      "pub_date": "2026 Jul 31",
+      "authors": [
+        "Wang H",
+        "Song Y",
+        "Ran M",
+        "Zhang R",
+        "Sun W",
+        "Giorgi O"
+      ],
+      "author_count": 10,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42946865/",
+      "doi": "10.1007/s00018-026-06359-y",
+      "mesh_terms": [
+        "Female",
+        "Animals",
+        "Humans",
+        "Macrophages*",
+        "Breast Neoplasms*",
+        "Endothelial Cells*",
+        "Metabolic Reprogramming",
+        "Mice",
+        "Cell Communication",
+        "Neovascularization, Pathologic",
+        "Cell Line, Tumor",
+        "Neoplasm Invasiveness",
+        "Cell Movement",
+        "Mice, Knockout"
+      ],
+      "relevance_score": 3,
+      "category": "Tumor heterogeneity & metastasis",
+      "category_key": "heterogeneity",
+      "ki_jl_level": 1,
+      "why_relevant": "It uses single-cell and spatial transcriptomics on patient breast tumors to define a SELENOP+ macrophage subset linked to vascular invasion, with mouse validation, which touches the group's interest in spatial heterogeneity and metastatic biology. However, it is mechanistic tumor-microenvironment work with little connection to pathology AI, routine biomarkers or patient-derived models.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_focus"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42941709",
+      "title": "Morphology-Guided Diagnosis of Triple-Negative Breast Carcinoma: From Histopathological Evaluation to Molecular Testing.",
+      "journal": "J Clin Med",
+      "pub_date": "2026 Oct 21",
+      "authors": [
+        "Zuccalà V",
+        "Rizzuto I",
+        "Pepe L",
+        "Martorana TM",
+        "Fiorentino V",
+        "Tralongo P"
+      ],
+      "author_count": 15,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42941709/",
+      "doi": "10.3390/jcm15208197",
+      "mesh_terms": [],
+      "relevance_score": 3,
+      "category": "Biomarkers & molecular diagnostics",
+      "category_key": "biomarkers",
+      "ki_jl_level": 1,
+      "why_relevant": "A narrative review of morphology-guided classification and IHC/molecular testing in TNBC special types that gives useful pathology background on histotype, sampling and heterogeneity, but it reports no new data, AI component or patient-derived model work, and it appeared in a level-1 journal.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_focus"
+      ],
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42941313",
+      "title": "Receptor Status Changes, HER2-Low Discordance, and TNBC Transformation in Metastatic Breast Cancer: Prognostic Significance and Impact on Survival Outcomes.",
+      "journal": "J Clin Med",
+      "pub_date": "2026 Oct 09",
+      "authors": [
+        "Nuransoy Cengiz A",
+        "Cengiz M",
+        "Bozkurt O",
+        "Erturk Zararsiz G",
+        "Erakcioglu A",
+        "Vicdanli SS"
+      ],
+      "author_count": 10,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42941313/",
+      "doi": "10.3390/jcm15207788",
+      "mesh_terms": [],
+      "relevance_score": 3,
+      "category": "Tumor heterogeneity & metastasis",
+      "category_key": "heterogeneity",
+      "ki_jl_level": 1,
+      "why_relevant": "A retrospective cohort of 172 patients on receptor conversion between primary and metastatic biopsies, including HER2-low discordance and TNBC transformation, which fits the group's interest in primary-metastasis discordance. It is a small single-centre study with no mechanistic, spatial or digital pathology component, so it is useful mainly as background.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_focus"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42934708",
+      "title": "Blocking aryl hydrocarbon receptor remodels myeloid-T cell crosstalk and enhances anti-PD-1 response in the tumor microenvironment.",
+      "journal": "Exp Hematol Oncol",
+      "pub_date": "2026 Oct 26",
+      "authors": [
+        "Kim DK",
+        "Baek S",
+        "Kim Y",
+        "Yang SM",
+        "Park SY",
+        "Choi SJ"
+      ],
+      "author_count": 14,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42934708/",
+      "doi": "10.1186/s40164-026-00843-8",
+      "mesh_terms": [],
+      "relevance_score": 2,
+      "category": "Treatment resistance & response prediction",
+      "category_key": "resistance",
+      "ki_jl_level": 1,
+      "why_relevant": "A mouse and humanized-PDX study of AhR inhibition to overcome anti-PD-1 resistance across several tumor types, with breast cancer only one of several syngeneic models; its link to the group's work on breast cancer pathology, heterogeneity and patient material is limited, and human validation relies on public datasets.",
+      "deep_analysis": null,
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_focus"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42933640",
+      "title": "Longitudinal Spatial Proteomics of Breast Cancer Reveals Recurrent Phenotypic Clone States and Temporal Trajectories.",
+      "journal": "Mol Cell Proteomics",
+      "pub_date": "2026 Oct 26",
+      "authors": [
+        "Lagache L",
+        "Zirem Y",
+        "Robin YM",
+        "Bertin D",
+        "Vanseymortier M",
+        "Hajjaji N"
+      ],
+      "author_count": 8,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42933640/",
+      "doi": "10.1016/j.mcpro.2026.101698",
+      "mesh_terms": [],
+      "relevance_score": 4,
+      "category": "Tumor heterogeneity & metastasis",
+      "category_key": "heterogeneity",
+      "ki_jl_level": 2,
+      "why_relevant": "Longitudinal, pathologist-guided spatial proteomics (MALDI-MSI plus dia-PASEF) on paired primary, relapse and metastatic FFPE breast cancer tissue maps intratumoral heterogeneity and state turnover during therapy, which is directly within the group's heterogeneity and primary-metastasis focus, though the cohort is small (16 patients) and has no external validation.",
+      "deep_analysis": {
+        "central_finding": "Integrating MALDI-MSI with region-resolved dia-PASEF proteomics identified 10 recurrent spatial proteomic states that recur across breast cancer subtypes and show marked turnover during therapy, with some states persisting and others emerging at relapse or metastasis, and with exploratory shifts from immune- and hormone-associated programs toward inflammatory, invasive and stress-adapted programs.",
+        "design_and_data": "Forty-seven FFPE tissues from 16 patients (primary, relapse and metastatic lesions; HR-positive, HER2-positive and HR-negative/HER2-low) underwent cohort-level MSI co-segmentation, and pathologist-guided microextraction of 201 tumor regions gave 402 dia-PASEF proteomic datasets, analyzed with feature-ranking models and exploratory enrichment analyses, without an external validation cohort.",
+        "limitation": "The cohort is small, repeated regions from the same patient are not independent, there is no genomic lineage tracing (so states are not proven clones) and no external validation, so all predictive and trajectory interpretations are hypothesis-generating."
+      },
+      "scored_at": "2026-11-02",
+      "found_by": [
+        "breast_focus"
+      ],
+      "publication_types": [
+        "Journal Article"
+      ]
+    },
     {
       "pmid": "42929736",
       "title": "Patient Sociodemographic Factors Impact the Breast Cancer Microenvironment.",
@@ -819,13 +3014,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42909645/",
       "doi": "10.1007/s10549-026-08110-4",
       "mesh_terms": [
-        "Humans",
-        "Ethnicity*",
         "Female",
+        "Humans",
         "Breast Neoplasms*",
-        "Racial Groups*",
+        "Ethnicity*",
         "Periodicals as Topic*",
-        "White"
+        "Racial Groups*"
       ],
       "relevance_score": 1,
       "category": "Clinical research",
@@ -1806,7 +4000,22 @@
       "author_count": 24,
       "url": "https://pubmed.ncbi.nlm.nih.gov/42892237/",
       "doi": "10.1016/j.ejca.2026.117784",
-      "mesh_terms": [],
+      "mesh_terms": [
+        "Humans",
+        "Female",
+        "Breast Neoplasms*",
+        "Middle Aged",
+        "Sex Hormone-Binding Globulin",
+        "Tamoxifen*",
+        "Adult",
+        "Caloric Restriction*",
+        "Quality of Life",
+        "Antineoplastic Agents, Hormonal*",
+        "Intermittent Fasting",
+        "Risk Factors",
+        "Life Style*",
+        "Risk Reduction Behavior*"
+      ],
       "relevance_score": 1,
       "category": "Clinical research",
       "category_key": "clinical",
@@ -1818,7 +4027,9 @@
         "breast_journals"
       ],
       "publication_types": [
-        "Journal Article"
+        "Journal Article",
+        "Clinical Trial, Phase II",
+        "Randomized Controlled Trial"
       ]
     },
     {
@@ -2421,7 +4632,8 @@
       ],
       "publication_types": [
         "Journal Article",
-        "Review"
+        "Review",
+        "Research Support, Non-U.S. Gov't"
       ]
     },
     {
